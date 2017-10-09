@@ -1,0 +1,16 @@
+{
+  "type": "custom_form",
+  "title": "§a§lMiRmチャット認証",
+  "content": [
+    {
+      "type": "label",
+      "text": "§cチャットをするためには認証キーが必要です。\n§c認証キーはMiRmのHPで取得できます。"
+	  },
+	  {
+      "type": "input",
+      "text": "認証キー",
+      "placeholder": "haniokasai",
+      "default": ""
+	  }
+  ]
+}
